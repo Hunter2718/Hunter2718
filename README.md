@@ -6,8 +6,8 @@ Welcome to my GitHub! I'm a student, robotics programmer, and aspiring cybersecu
 
 ## 🔧 About Me
 
-- 🎓 Senior in high school | Concurrent college student at Rogers State University  
-- 🤖 Lead programmer & driver for **FIRST Robotics Competition (FRC) Team 3179** since freshman year  
+- 🎓 Senior in high school | Concurrent college student at a local University
+- 🤖 Lead programmer & driver for a **FIRST Robotics Competition (FRC) Team** since freshman year  
 - 🛡️ Future Cyber Warfare Operations (1B4X1) airman, aiming to attend the **U.S. Air Force Academy (USAFA)**  
 - 💻 Passionate about **cybersecurity**, **programming**, and **Linux systems**  
 - 🌐 Maintainer of several projects including custom **CLI tools**, and **low-level networking projects in C**  
