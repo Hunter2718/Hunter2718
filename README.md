@@ -53,5 +53,5 @@ Welcome to my GitHub! I'm a student, robotics programmer, and aspiring cybersecu
 
 ---
 
-> “Persistence and purpose over perfection.”
+> “Break it before they do.”
 
