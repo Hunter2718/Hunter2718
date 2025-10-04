@@ -23,7 +23,7 @@ Welcome to my GitHub! I'm a student, robotics programmer, and aspiring cybersecu
   *Lead programmer and system architect. Built modular IO layers and timestamped sensor architecture from scratch.*
 - 📦 [Discord-Uploader](https://github.com/Hunter2718/Discord-Uploader): A lightweight CLI tool to send files via Discord webhooks using Objective-C + libcurl  
 - 🌐 Personal HTTP/1.0 parser in C (WIP): Built from the ground up for learning low-level networking  
-- 🐚 Arch Linux Ricing Repo (coming soon): Snapshotted, encrypted, and themed for performance and aesthetics
+- 🐚 Arch Linux Ricing Repo: Snapshotted, encrypted, and themed
 
 ---
 
