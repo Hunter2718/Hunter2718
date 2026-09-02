@@ -30,7 +30,7 @@ I am currently looking for **cybersecurity, IT, software development, networking
 `Linux` · `Arch Linux` · `systemd` · `Btrfs` · `SSH` · `WireGuard` · `UFW` · `TCP/IP` · `HTTP` · `DNS` · `Git`
 
 ### Programming
-`C` · `Java` · `Rust` · `Python` · `Bash` · `Lua`
+`C` · `Java` · `Rust` · `Python` · `Bash`
 
 ### Tools & Workflow
 `Neovim` · `tmux` · `Git/GitHub` · `Ghidra` · `Docker` · `OBS` · `ProPresenter`
@@ -113,5 +113,3 @@ I am also continuing to build open-source tools that solve problems I run into m
 I'm open to **internships, entry-level technical roles, open-source collaboration, cybersecurity projects, and software projects**.
 
 If you're reviewing this profile for an opportunity, the repositories above are the best place to start. I'm always interested in work that gives me a difficult technical problem and the opportunity to learn enough to solve it.
-
-> **Build it. Break it. Understand it. Make it better.**
